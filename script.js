@@ -6,3 +6,8 @@
   .row {
     margin-bottom: 150px;
   }
+
+  h1 {
+    text-align: center;
+    margin-bottom: 80px;
+  }
