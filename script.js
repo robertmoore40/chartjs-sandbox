@@ -9,3 +9,6 @@ let chart1 = new Chart(myDoughnutChart, {
     data: {
         labels: ['YES', 'YES BUT IN GREEN'],
         datasets: [ {
+            data: [69, 31],
+            backgroundColor: ['#49A9EA', '#36CAAB']
+        }]
