@@ -18,3 +18,5 @@ let chart1 = new Chart(myDoughnutChart, {
             text: "Do you like doughnuts?",
             display: true
         }
+    }
+});
