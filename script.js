@@ -1,3 +1,5 @@
 let labels1 = ['YES', 'YES BUT IN GREEN'];
 let data1 = [69, 31];
 let colors1 = ['#49A9EA', '#36CAAB'];
+
+let myDoughnutChart = document.getElementById("myChart").getContext('2d');
