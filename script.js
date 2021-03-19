@@ -6,3 +6,6 @@ let myDoughnutChart = document.getElementById("myChart").getContext('2d');
 
 let chart1 = new Chart(myDoughnutChart, {
     type: 'doughnut',
+    data: {
+        labels: ['YES', 'YES BUT IN GREEN'],
+        datasets: [ {
